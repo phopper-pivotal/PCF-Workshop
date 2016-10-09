@@ -1,4 +1,7 @@
-# Workshop for Pivotal Cloud Foundry
+# Workshops for Pivotal Cloud Foundry
+
+## Operator Workshop for Pivotal Cloud Foundry
+## Developer Workshop for Pivotal Cloud Foundry
 
 ### **[Syllabus](syllabus.adoc)**
 
