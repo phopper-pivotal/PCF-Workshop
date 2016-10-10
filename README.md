@@ -12,7 +12,7 @@ This workshop will focus on the PCF Developer persona. We will review details ab
 1. Windows or Mac OSX 
 2. Java JDK 1.8+
 6. Create an account at [Pivotal Web Services](http://run.pivotal.io/)
-3. Install the [PCF CLI](http://run.pivotal.io/tools)
+3. Install the [PCF CLI](http://run.pivotal.io/tools) (requires one be logged into Pivotal Web Services)
 4. Firefox or Chrome (Not IE)
 5. Download or clone the course materials into a working directory for the day.  This can be accomplished either through the GitHub website and downloading a zip, or cloning from your local machine.
 
