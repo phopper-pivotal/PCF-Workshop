@@ -5,7 +5,7 @@ This workshop will focus on PCF Operator persona. We will review details about P
 ### **[Syllabus](./PCF-Workshop-Operator/syllabus.adoc)**
 ## The Developer
 This workshop will focus on the PCF Developer persona. We will review details about PCF architecture, deploying to the cloud, scaling, services, logging and metrics.
-### **[Syllabus](./PCF-Workshop-Devloper/syllabus.adoc)**
+### **[Syllabus](./PCF-Workshop-Developer/syllabus.adoc)**
 
 ## Pre-Requisites:
 
