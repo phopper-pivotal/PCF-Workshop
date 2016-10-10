@@ -1,4 +1,4 @@
-= Developer Workshop for Pivotal Cloud Foundry
+= Developer Workshop for Pivotal Cloud Foundry +
 ** PCF Introduction 
 *** link:Slides/01-Ops_Workshop-Intro.pdf[Presentation]
 *** link:Labs/Lab01-Application_Push/lab_01.adoc[Lab 1 - Pushing an Application]
