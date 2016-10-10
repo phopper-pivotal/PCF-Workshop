@@ -25,7 +25,3 @@
 * Authentication and Authorization
 ** link:slides/08-Ops_Workshop-Authentication_Authorization.ppt[Presentation]
 ** link:slides/ClickThrough-Application_Security_Groups.ppt[Click-through - Application Security Group]
-
-
-
-
