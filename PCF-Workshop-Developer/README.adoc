@@ -15,6 +15,3 @@
 ** link:slides/06-Dev_Workshop-Application_Health.ppt[Presentation]
 ** link:slides/ClickThrough-JMXBridge.ppt[Click-through - JMX Bridge]
 ** link:Labs/Lab05-Application_Health/lab_05.adoc[Lab 5 - Monitoring Application Health]
-* Authentication and Authorization
-** link:slides/08-Dev_Workshop-Authentication_Authorization.ppt[Presentation]
-** link:slides/ClickThrough-Application_Security_Groups.ppt[Click-through - Application Security Group]
