@@ -1,0 +1,9 @@
+applications:
+- name: messaging-stomp-websocket
+  memory: 512M
+  instances: 1
+  host: messaging-stomp-websocket
+  path: ./target/gs-messaging-stomp-websocket-0.1.0.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack
+  env:
+      JAVA_OPTS: -Djava.security.egd=file:///dev/urandom
