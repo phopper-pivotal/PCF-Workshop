@@ -15,3 +15,5 @@
 ** link:slides/06-Dev_Workshop-Application_Health.ppt[Presentation]
 ** link:slides/ClickThrough-JMXBridge.ppt[Click-through - JMX Bridge]
 ** link:Labs/Lab05-Application_Health/lab_05.adoc[Lab 5 - Monitoring Application Health]
+* Blue Green Deployments
+** link:Labs/Lab06-Blue_Green_Deployment/lab_06.adoc[Lab 6 - Blue/Green Deployment]
